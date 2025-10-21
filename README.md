@@ -87,6 +87,6 @@ Distributed under the **MIT License**. See the `LICENSE` file for more details. 
 
 ## 📧 Contact
 
-Shefayet Nayon - [Your Preferred Contact Method, e.g., shefayetnayon-dev@email.com]
+Shefayet Nayon - [Your Preferred Contact Method, e.g., shefayetnayon.dev@outlook.com]
 
 Project Link: **[https://github.com/shefayetnayon-dev/note.pro](https://github.com/shefayetnayon-dev/note.pro)**
